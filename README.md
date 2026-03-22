@@ -17,3 +17,5 @@ Python · Pandas · Matplotlib · Jupyter Notebook
 ## Dataset
 Synthetic dataset · 1,000,000 rows · 24 columns
 ```
+| A — Contract length & tenure | ✅ Complete |
+| B — Monthly charges          | 🔄 In progress |
