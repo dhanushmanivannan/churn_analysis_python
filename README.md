@@ -17,6 +17,3 @@ Python · Pandas · Matplotlib · Jupyter Notebook
 ## Dataset
 Synthetic dataset · 1,000,000 rows · 24 columns
 ```
-What is this project?     → churn analysis, 1M records
-What tools did you use?   → Python, Pandas, Matplotlib
-What did you find?        → 3 strong findings with numbers
